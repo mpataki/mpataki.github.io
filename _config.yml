@@ -1,30 +1,32 @@
-title: cvless
-description: Jekyll theme for a beautiful online CV
+title: mat_pataki
+description: Personal site, blog
 baseurl: ""
-url: https://piazzai.github.io/cvless
+url: https://mpataki.github.io
 
 theme: cvless
 
 # site settings
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
+taglong: building for the joy of it
+tagshort: code | make | jam
 
 # author settings
 author:
-  name: Place Holder
-  email: username@domain.com
+  name: Mat Pataki
+  email: matpataki@gmail.com
 photo: assets/files/photo.jpg
 address: Foobar Hall 1.23
 phone: +1 234 567 890
 
 # social media links
 social:
-  facebook: username
-  github: username
-  instagram: username
-  linkedin: username
-  stackoverflow: 0000000/username
-  x: username
+  #facebook: username
+  github: mpataki
+  #instagram: username
+  linkedin: mat-pataki-000b76a
+  #stackoverflow: 0000000/username
+  #x: username
+
+cv: false
 
 # build settings
 permalink: pretty

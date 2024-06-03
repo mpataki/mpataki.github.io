@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Mat.  This site is about the stuff I'm interested in.  This focus on self is a bit weird for me but I'm going to get over that eventually.  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I write code every day and support my family doing it.  It's the best and I love it.  It's truly a vocation.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I've always been fortunate to have a wide set of interests.  Truth is, I'd be happy in many careers.  As my friends and family know, I'm always up for a good project.  Need to fix some home appliance?  I'm in.  Build a deck?  Fell a tree?  Wire up some electrical?  I'm down -- I might not know exactly what's what but I bet we can sort it out. Let's go.
 
+There's something about pressing your brain against things you don't understand that feels like fulfilling the equipment's purpose.  I find it exciting.  Figuring things out feels like leveling up, and I like that.
 
-[jekyll-organization]: https://github.com/jekyll
+This site should evolve into a collection of topics explored.  If you take the time to read, I hope you enjoy.
+
+~ Mat
+
